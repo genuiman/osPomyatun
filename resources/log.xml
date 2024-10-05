@@ -1,0 +1,5 @@
+<session><action><command>ls</command><output>subdir
+testfile.txt
+virtual_fs</output></action><action><command>cd virtual_fs</command><output>Directory changed to C:/Users/gnil/Python project/osPomyatun/virtual_fs\virtual_fs</output></action><action><command>ls</command><output>etc
+home
+var</output></action></session>
